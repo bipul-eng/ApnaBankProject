@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-color:black;;
+	color:white;;
+}
+
+.main
+{
+	width:1000px;
+	height:250px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+	background-color: linear
+}
+
+h1
+{
+	font-size:40px;
+	margin: 0;
+	padding: 0;
+}
+span
+{
+	font-size: 20px;
+}
+.nav ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	list-style-type: none;
+	list-style-position:inside;
+    border: 1px solid white;
+}
+.nav ul li
+{
+	list-style-position:inside;
+    border: 1px solid white;
+    padding: 5px;
+}
+.section
+{
+	display: flex;
+	flex-direction: row;
+	justify-content:space-between;
+	
+}
+.section div
+{
+	border: 1px solid grey;
+	width:50%;
+}
