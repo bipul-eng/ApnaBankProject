@@ -1,10 +1,10 @@
-High-Performance Customer Bank Management System
+# High-Performance Customer Bank Management System
 
-Overview
+# Overview
 
 This project is a high-performance web application developed using JSP, Servlets, and Oracle DB. It is designed to provide seamless customer account management, real-time balance updates, and an engaging user experience with a responsive front-end built using Bootstrap.
 
-Features
+# Features
 
 Secure & Scalable Architecture: Ensures efficient handling of customer data and transactions.
 
@@ -14,7 +14,7 @@ Responsive UI: Developed using Bootstrap for a seamless experience across device
 
 Optimized Performance: Engineered with JSP and Servlets for smooth functionality.
 
-Technologies Used
+# Technologies Used
 
 Back-end: JSP, Servlets
 
